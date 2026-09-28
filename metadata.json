@@ -1,0 +1,6 @@
+{
+  "name": "생기부 기반 AI 면접 질문 생성기",
+  "description": "학교생활기록부(생기부)와 지원 학과를 분석하여 맞춤형 대입 심층 면접 질문과 글쓰기 답변 가이드라인을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
